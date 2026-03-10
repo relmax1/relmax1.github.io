@@ -1,0 +1,114 @@
+/*
+img{
+    width: 100%;
+    border-radius: 9%;
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    margin: 0px;
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    width: 100%;
+    height: 69px;
+    background-color: azure;  
+}
+
+div{
+    height: 70%px;
+    width: 70%;
+    padding: 3%;
+    margin: auto;
+    border: 1px solid black;
+}
+
+ol{
+    border: 1px solid black;
+}
+
+h1{
+    text-align: center;
+    padding-top: 1%;
+    
+}
+.contenedor{
+display:grid;
+grid-template-columns:repeat(3, 1fr);
+gap:10px;
+}
+
+.item{
+border:1px solid black;
+padding:20px;
+text-align:center;
+}
+
+*/
+
+img{
+    width: 100%;
+    height: auto;
+    border-radius: 4%;
+    margin-bottom: 0%;
+}
+
+hr{
+    margin-bottom: 35px;
+}
+
+
+.caja{
+width: 50%;
+height: auto;
+margin: auto;
+border: 2px solid black;
+padding: 25px;
+background-color:lightgray;
+border-radius: 5%;
+margin-bottom: 20px;
+}
+
+
+
+header{
+    background: linear-gradient(135deg, #d8e7f7, #a6a9c2);
+/*
+    background-color: rgb(97, 212, 212);*/
+    margin: auto;
+    width: 100%;
+    height: 70px;
+    margin-top: -30px;
+    margin-bottom: -8px;
+}
+
+h1{
+    padding: 6px;
+    text-align: center;
+    font-size: 300%;
+    border: 2px solid black;
+}
+
+p{
+    text-decoration-color: #2f3e4f;
+}
+
+button{
+    width: 90%;
+    height: 30px;
+    display:block;
+    margin:auto;
+    border-radius: 30px;
+    background-color: #6c8ebf;
+}
+
+button:hover{
+    width: 91%;
+    height: 32PX;
+    background-color: #4f6fa3;
+}
